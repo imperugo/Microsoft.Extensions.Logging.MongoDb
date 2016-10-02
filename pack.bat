@@ -1,0 +1,1 @@
+dotnet pack Microsoft.Extensions.Logging.MongoDb/project.json --output nupkgs
